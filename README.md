@@ -270,7 +270,6 @@ The system verifies behavioral consistency instead of relying solely on GPS accu
 - Google Maps  
 - Government APIs  
 - Razorpay  
-- Mock delivery APIs  
 
 ---
 
