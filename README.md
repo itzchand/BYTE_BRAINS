@@ -1,4 +1,4 @@
-# Q-Commerce Gig Worker Insurance Platform
+# GigGuard
 
 ## Problem Statement
 
